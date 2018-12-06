@@ -1,0 +1,31 @@
+01) Solicite o preço de uma mercadoria e o percentual de desconto. Exiba o valor do desconto e o preço a pagar.
+
+02) Faça um programa que imprima na tela os números ímpares, pares e primos em listas diferentes. Os números devem estar entre 0 e 100.
+
+03) Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado pelo
+usuário, assim como a quantidade de dias pelos quais o carro foi alugado. Calcule o preço a pagar,
+sabendo que o carro custa R$ 100,00 por dia e R$ 0,50 por km rodado.
+
+04) Tendo como dados de entrada a altura de uma pessoa e o seu peso, construa um algoritmo que calcule seu peso ideal (Para isso, basta dividir seu peso pela sua altura ao quadrado). Depois você deverá classificar o resuntado em:
+
+Menor que 16 = Magreza grave;
+   16 a <17 = Magreza moderada;
+   17 a <18,5 = Magreza leve;
+   18,5 a <25 = Saudável;
+   25 a < 30 = Sobrepeso;
+   30 a < 35 = Obesidade Grau I;
+   35 a < 40 = Obesidade Grau II (severa);
+Maior, igual a 40 = Obesidade Grau III (mórbida).
+
+05) Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
+
+-------------------------Questão desafio-----------------------------
+Faça um jogo da velha.
+Vocês vão usar uma matriz (lista dentro de lista) de tamanho 3x3.
+Um jogador vai escolher a linha e a coluna no tabuleiro, para jogar.
+
+Se for o jogador 1, vai assinalar um X.
+Se for o jogador 2, vai assinalar um O.
+
+Porém, só pode inserir um X ou O se aquela posição estiver vazia.
+Cada vez que o jogador joga, deve verificar se alguma linha, coluna ou diagonal foi preenchida. Terminando o jogo, avisando quem ganhou e em quantas rodadas.
